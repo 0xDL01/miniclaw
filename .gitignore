@@ -1,0 +1,6 @@
+.venv/
+.venv-voice/
+__pycache__/
+*.pyc
+*.db
+.env

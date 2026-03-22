@@ -1,0 +1,4 @@
+SERVER_URL = "http://127.0.0.1:8000"
+NODE_NAME = "MacBook-Air"
+PLATFORM = "macOS"
+POLL_INTERVAL = 3
